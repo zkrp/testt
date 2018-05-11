@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 /**
  * kai.zhong
- * test
+ * test test test
  */
 public class MainActivity extends AppCompatActivity {
 
